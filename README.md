@@ -112,7 +112,7 @@ Output:
 <img width="1919" height="1079" alt="EDM 2 2 3D" src="https://github.com/user-attachments/assets/1acc4b5e-4568-4e7e-9edf-5be97e46e212" />
 
 ## IN 2D VIEW
-<img width="1086" height="768" alt="EDM 2 2 2D" src="https://github.com/user-attachments/assets/78071cf7-d1db-4e7f-ae3a-b4fd57ec3d92" />
+<img width="1081" height="764" alt="EDM 2 2" src="https://github.com/user-attachments/assets/e55bc65d-6f73-49db-b6b9-44b4e08355fc" />
 
 ## RESULT: 
 Thus, the 3D model is created from given isometric drawing.
